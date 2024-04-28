@@ -1,4 +1,4 @@
-public add(int a, int b)
+Public add(int a, int b)
 {
   int c = a + b;
 }
